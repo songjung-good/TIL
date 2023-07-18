@@ -1,0 +1,31 @@
+## 230718
+
+## today i learn
+[notion](https://glib-glitter-8ce.notion.site/SSAFY-Day-10-Python-2-8a89b0710e534e44852ae4f288b2c605?pvs=4)
+[추가수업](https://glib-glitter-8ce.notion.site/SSAFY-Day-10-add-class-ee996b8dacd246a793574c3c54807858?pvs=4)
+
+- my_str[::-1] = 문자열 뒤집어서 1칸씩
+  
+- *Collection : 여러개의 항목 또는 요소를 담는 자료 구조
+  
+- 2. ***Sequence Type**
+1. 순서(sequence) : 값이 순서대로 저장(**정렬되어있다x**)
+2. 인덱싱(indexing) : 각 값이 고유한 인덱스(번호)를 가지고, 인덱스를 사용하여 특정 위치의 값을 선택하거나 수정가능
+3. 슬라이싱(slicing) : 인덱스 범위를 조절해 부분적인 값 추출
+4. 길이(length) : len() 함수를 사용하여 저장된 값의 개수(길이)를 구할 수 있음
+5. 반복(iteration) : 반복문을 사용하여 저장된 값을 반복적으로 처리할 수 있음
+
+
+##today i do
+
+- 보충수업 수강(꿀팁 챙김)
+
+- 매트리스 구입
+
+## today i feel
+
+- 나만의 템포로
+
+## tommrrow i ll do
+
+- 간식 가져가기
