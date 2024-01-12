@@ -21,15 +21,21 @@
 ### 3일차(수)
 |번호|완료|진행정도|분야|과제명|기타|
 |----|----|----|----|----|----|
-| `3일차 과제 1` | JavaScript |:white_check_mark:|100%| emit과 this ||
-| `3일차 과제 2` | React |:white_check_mark:|100%| udeme강의 1강, 2강(일부) |[학습내용](./240109.md)|
+| `3일차 과제 1` | assistants API |:white_check_mark:|100%| assistants API는 무엇인가? |[학습내용](./assistantsAPI.md)|
+| `3일차 과제 2` | React |:white_check_mark:|100%| udeme강의 1강, 2강(일부) |[학습내용](./240110.md)|
 
 ---
 
 ### 4일차(목)
 |번호|완료|진행정도|분야|과제명|기타|
 |----|----|----|----|----|----|
-|`1일차 과제 1`|:white_check_mark:|100%|웹 기술|무언가 공부했다.|https://lab.ssafy.com/jed595/self-project/-/tree/master/con20/rep01|
-|`1일차 과제 1`|:white_check_mark:|100%|웹 기술|무언가 공부했다.|https://lab.ssafy.com/jed595/self-project/-/tree/master/con20/rep01|
+| `4일차 과제` | openvidu |:white_check_mark:|100%| 튜토리얼 진행 |[학습내용](./240111.md)|
+
+----
+
+### 5일차(금)
+|번호|완료|진행정도|분야|과제명|기타|
+|----|----|----|----|----|----|
+| `5일차 과제 1` | 아키텍쳐 |:white_check_mark:|100%| 아키텍쳐 설계강의 |[학습내용](./아키텍쳐%20설계.md)|
 
 ----
