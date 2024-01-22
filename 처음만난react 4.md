@@ -42,3 +42,4 @@
     - 정확히는 모르겠으나 설명을 내 방식대로 정리하자면
     -> virtual DOM에 새로운 element를 적용시키고 Browser DOM을 연결시키면 적용시킨 element는 변하지 않기때문에 DOM에 똑같이 적용된다.
 
+## 실습
